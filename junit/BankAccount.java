@@ -2,7 +2,7 @@ package activityPrograms;
 
 public class BankAccount {
     private Integer balance;
-
+    
     // Create a constructor
     public BankAccount(Integer initialBalance) {
         balance = initialBalance;
